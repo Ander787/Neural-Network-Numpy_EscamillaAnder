@@ -1,4 +1,4 @@
-# README - Red Neuronal para Clasificación con Funciones de Activación
+# README - Red Neuronal Numpy
 
 ## 🤓 Información del Proyecto  
 **Materia:** Sistemas de Visión Artificial  
